@@ -15,3 +15,5 @@ project:
 • Sklearn
 Implementation :
 Sentiment analysis, Sentiment, Polarity and Subjectivity using textblob, Common Words in sentiment, Removing non-subjective reviews, K-means Clustering, Statistical analysis using sk_learn(logistic regression and confusion matrix).
+
+Download the Dataset : https://drive.google.com/drive/folders/1d6samYZaz0aUIy4DCXKnAcWAmCrHFeY1?usp=sharing
